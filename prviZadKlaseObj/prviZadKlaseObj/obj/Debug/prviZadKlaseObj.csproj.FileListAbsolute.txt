@@ -1,0 +1,7 @@
+C:\Users\Učenik09\source\repos\prviZadKlaseObj\prviZadKlaseObj\bin\Debug\prviZadKlaseObj.exe.config
+C:\Users\Učenik09\source\repos\prviZadKlaseObj\prviZadKlaseObj\bin\Debug\prviZadKlaseObj.exe
+C:\Users\Učenik09\source\repos\prviZadKlaseObj\prviZadKlaseObj\bin\Debug\prviZadKlaseObj.pdb
+C:\Users\Učenik09\source\repos\prviZadKlaseObj\prviZadKlaseObj\obj\Debug\prviZadKlaseObj.csprojAssemblyReference.cache
+C:\Users\Učenik09\source\repos\prviZadKlaseObj\prviZadKlaseObj\obj\Debug\prviZadKlaseObj.csproj.CoreCompileInputs.cache
+C:\Users\Učenik09\source\repos\prviZadKlaseObj\prviZadKlaseObj\obj\Debug\prviZadKlaseObj.exe
+C:\Users\Učenik09\source\repos\prviZadKlaseObj\prviZadKlaseObj\obj\Debug\prviZadKlaseObj.pdb
